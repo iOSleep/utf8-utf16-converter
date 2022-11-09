@@ -1,4 +1,4 @@
-# UTF-16 <-> UTF-8 Converter
+# UTF-16 <-> UTF-8 Converter1
 This project contains two small functions written in raw C (no C++ features) that can convert in-memory UTF-8 strings to UTF-16 and vice-versa.
 
 It is written in standard C with no OS-specific functions and built & tested with CMake.
